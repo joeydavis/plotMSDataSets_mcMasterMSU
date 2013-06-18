@@ -3,3 +3,8 @@
 data/
 data/**/*
 data/*
+
+# Output files #
+################
+*.png
+*.pdf
